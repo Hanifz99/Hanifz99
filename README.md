@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h2>Development Tools</h2>
+<h3>Development Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad">
