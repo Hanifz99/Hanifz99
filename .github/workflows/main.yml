@@ -63,4 +63,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
           config_background: "#0d1117"
+          config_background_opacity: 1
           filename: metrics/template.svg

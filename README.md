@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
 </p>
 
+<br clear="left"/>
+
 <h2>Programming Language</h2>
 
 <p>
