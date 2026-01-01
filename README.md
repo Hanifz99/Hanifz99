@@ -33,6 +33,8 @@ Contact me:
 
 ## Programming Language
 
+![Metrics](./github-metrics.svg)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -54,5 +56,3 @@ Licensing varies by repository.
 See each repository’s LICENSE file for details.
 
 <img src="https://cdn.simpleicons.org/gplv3/BD0000" height="100"/>
-
-![Metrics](./github-metrics.svg)
