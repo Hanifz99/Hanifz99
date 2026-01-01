@@ -55,12 +55,4 @@ See each repository’s LICENSE file for details.
 
 <img src="https://cdn.simpleicons.org/gplv3/BD0000" height="100"/>
 
-name: Licenses and permissions
-with:
-  filename: metrics.plugin.licenses.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  template: repository
-  repo: metrics
-  plugin_licenses: yes
-  plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+![Metrics](./github-metrics.svg)
