@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1; min-width: 350px;">
-    <img src="metrics/template.svg" alt="Gambar" style="width: 100%; border-radius: 8px;">
-  </div>
-  <div style="flex: 2; min-width: 300px; padding: 20px;">
-    <p>
-      
+<img align="left" width="500" src="metrics/template.svg" >
+
 ![GitHub followers](https://img.shields.io/github/followers/Hanifz99?style=flat&logo=github)
 
 ---
-
 
 ### Contact me
 
@@ -37,9 +31,8 @@
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-    </p>
-  </div>
-</div>
+
+<br clear="left"/>
 
 ---
 
