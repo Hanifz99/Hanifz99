@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="left" width="500" src="metrics/template.jpg" >
+<img align="left" width="500" src="metrics/template.svg" >
 
 ![GitHub followers](https://img.shields.io/github/followers/Hanifz99?style=flat&logo=github)
 
@@ -12,7 +12,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/Hanifz.ig)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanifyafi772@gmail.com)
 
-## Development Tools
+---
+
+### Development Tools
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
@@ -31,7 +33,9 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 <br clear="left"/>
 
-## Programming Language
+---
+
+### Programming Language
 
 <img align="left" width="500" src="metrics/languages.svg" >
 

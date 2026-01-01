@@ -62,4 +62,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
-          filename: metrics/template.jpg
+          filename: metrics/template.svg
