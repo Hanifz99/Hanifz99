@@ -7,7 +7,6 @@
     template: classic
     base: header, activity, repositories
 
-    # LICENSES PLUGIN
     plugin_licenses: yes
     plugin_licenses_setup: npm
     plugin_licenses_limit: 8
@@ -15,8 +14,3 @@
     output_action: commit
     filename: github-metrics.svg
 
-  repo: metrics
-  plugin_licenses: yes
-  plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-  plugin_licenses_legal: no
-  plugin_licenses_ratio: yes
