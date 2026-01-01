@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="metrics/template.svg" width="500">
-    </td>
-  </tr>
-</table>
+<img align="left" width="500" src="metrics/template.svg" >
 
 ![GitHub followers](https://img.shields.io/github/followers/Hanifz99?style=flat&logo=github)
 
