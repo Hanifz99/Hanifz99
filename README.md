@@ -1,45 +1,10 @@
 <h2>Hi there 👋</h2>
 
-<table align="left">
+<table witdth="100" align="left">
   <tr>
     <td>
-      <img src="metrics/template.svg" width="10000">
+      <img src="metrics/template.svg" width="400">
     </td>
-    <td>
-    <h3>Contact me:</h3>
-
-<p>
-  <a href="https://t.me/Hanifz99">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://instagram.com/Hanifz.ig">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:hanifyafi772@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<h3>Development Tools</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode">
-  <img src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=flat&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/QMK-000000?style=flat&logo=qmk&logoColor=white">
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white">
-  <img src="https://img.shields.io/badge/NAS-555555?style=flat&logo=serverfault&logoColor=white">
-  <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-</p>
-</td>
   </tr>
 </table>
 
@@ -61,7 +26,7 @@
   </a>
 </p>
 
-<h2>Development Tools</h2>
+<h3>Development Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad">
