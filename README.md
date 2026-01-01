@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="left" width="500" src="metrics/template.svg" >
+<img align="left" width="500" src="metrics/template.jpg" >
 
 ![GitHub followers](https://img.shields.io/github/followers/Hanifz99?style=flat&logo=github)
 
