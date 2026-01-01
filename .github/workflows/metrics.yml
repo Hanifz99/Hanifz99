@@ -1,25 +1,20 @@
-name: Metrics
+- name: Main metrics
+  uses: lowlighter/metrics@latest
+  with:
+    token: ${{ secrets.METRICS_TOKEN }}
+    user: Hanifz99
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch
+    template: classic
+    base: header, activity, repositories
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    # LICENSES PLUGIN
+    plugin_licenses: yes
+    plugin_licenses_setup: npm
+    plugin_licenses_limit: 8
 
-    steps:
-    
-    - name: Licenses with open-source ratio graphs
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.licenses.ratio.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  template: repository
+    output_action: commit
+    filename: github-metrics.svg
+
   repo: metrics
   plugin_licenses: yes
   plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
